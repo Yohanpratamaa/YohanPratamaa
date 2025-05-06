@@ -1,5 +1,13 @@
 # 💫About Me :
-Im currently studying
+Hi 👋! My name is Yohan Artha Pratama and I'm a Front-End Web Developer, from Telkom University.
+
+🎓 I'm currently studying Information Systems at Telkom University
+💻 I’m passionate about building responsive and user-friendly web interfaces
+🌐 I love working with HTML, CSS, JavaScript, and modern frameworks like React
+🔭 I’m currently learning more about UI/UX design and performance optimization
+📫 You can reach me at yohanpratamaa@gmail.com or connect with me on LinkedIn
+
+Thanks for stopping by! 🚀
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@yohanrth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanpratama26) 
